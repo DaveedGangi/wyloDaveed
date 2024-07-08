@@ -1,3 +1,93 @@
+
+
+
+# Note from user 
+
+
+I have developed this posts app by using react 
+
+I have used styling for css  
+
+
+Implemented the following features:
+
+- user can create a post 
+- user can edit his post 
+- user can see the totall number of posts 
+- user can enable dark mode and light mode 
+- implemented a responsiveness of the website 
+
+Enhancing purpose :
+
+- used react-router-dom for routing purpose
+- used a third party packege called uuid for id 
+- used a another one is called sweetalert for alert purpose
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
